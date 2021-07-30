@@ -12,4 +12,5 @@ After all of this is done, you can now run the bot and make tweets from Discord 
 # Libraries needed
 
 [Tweepy](https://www.tweepy.org/)
+&nbsp;
 [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
